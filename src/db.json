@@ -1,0 +1,147 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "Beginner's Web Development",
+      "thumbnail": "../assets/logos/htmlLogo.png",
+      "banner": "../assets/banners/banner1.jpg",
+      "instructor": "Don Justice",
+      "duration": "6 weeks",
+      "description": "Learn how to make basic webpages using HTML, CSS, and JavaScript.",
+      "keyTeachings": [
+        "Introduction",
+        "HTML Elements",
+        "CSS Styling",
+        "JavaScript Interactions"
+      ],
+      "bio": "Don Justice has lots of experience in the tech industry. He has worked for many companies as a top web developer."
+    },
+    {
+      "id": "2",
+      "title": "Python for Beginners",
+      "thumbnail": "../assets/logos/pythonLogo.png",
+      "banner": "../assets/banners/banner2.png",
+      "instructor": "Jane Looper",
+      "duration": "5 weeks",
+      "description": "Learn the basics of Python. Get familliarized with the syntax of the language and how to make polished code.",
+      "keyTeachings": [
+        "Introduction",
+        "Basic Syntax",
+        "Loops",
+        "If/else Statements",
+        "Lists",
+        "Functions",
+        "Libraries"
+      ],
+      "bio": "Jane Looper is a renowned teacher of many coding languages. She has decades of experience in many languages, including Python, Java, and the C languages."
+    },
+    {
+      "id": "3",
+      "title": "React for Beginners",
+      "thumbnail": "../assets/logos/reactLogo.webp",
+      "banner": "../assets/banners/banner3.jpg",
+      "instructor": "John Doe",
+      "duration": "4 weeks",
+      "description": "Learn the basics of React, including components, state, and props.",
+      "keyTeachings": [
+        "Introduction",
+        "Components",
+        "State & Props",
+        "Routing"
+      ],
+      "bio": "John Doe is a seasoned React developer with 10+ years of experience."
+    },
+    {
+      "id": "4",
+      "title": "Java for Beginners",
+      "thumbnail": "../assets/logos/javaLogo.webp",
+      "banner": "../assets/banners/banner4.jpg",
+      "instructor": "Jane Looper",
+      "duration": "6 weeks",
+      "description": "Learn the basics of Java. Get familliarized with the syntax of the language and how to make polished code.",
+      "keyTeachings": [
+        "Introduction",
+        "Basic Syntax",
+        "Loops",
+        "If/else Statements",
+        "Arrays",
+        "Functions"
+      ],
+      "bio": "Jane Looper is a renowned teacher of many coding languages. She has decades of experience in many languages, including Python, Java, and the C languages."
+    },
+    {
+      "id": "5",
+      "title": "C# for Beginners",
+      "thumbnail": "../assets/logos/csharpLogo.png",
+      "banner": "../assets/banners/banner5.jpeg",
+      "instructor": "Jane Looper",
+      "duration": "6 weeks",
+      "description": "Learn the basics of C#. Get familliarized with the syntax of the language and how to make polished code.",
+      "keyTeachings": [
+        "Introduction",
+        "Basic Syntax",
+        "Loops",
+        "If/else Statements",
+        "Arrays",
+        "Functions"
+      ],
+      "bio": "Jane Looper is a renowned teacher of many coding languages. She has decades of experience in many languages, including Python, Java, and the C languages."
+    },
+    {
+      "id": "6",
+      "title": "C++ for Beginners",
+      "thumbnail": "/assets/logos/c++Logo.png",
+      "banner": "../assets/banners/banner6.jpg",
+      "instructor": "Allison Gottard",
+      "duration": "6 weeks",
+      "description": "Learn the basics of C++. Get familliarized with the syntax of the language and how to make polished code.",
+      "keyTeachings": [
+        "Introduction",
+        "Basic Syntax",
+        "Loops",
+        "If/else Statements",
+        "Arrays",
+        "Functions"
+      ],
+      "bio": "Allison Gottard is a veteran in the world of coding. She has experience with nearly every coding language, and has worked for many large companies."
+    }
+  ],
+  "favorites": [],
+  "enrollments": [
+    {
+      "id": "1",
+      "title": "Beginner's Web Development",
+      "thumbnail": "../assets/logos/htmlLogo.png",
+      "banner": "../assets/banners/banner1.jpg",
+      "instructor": "Don Justice",
+      "duration": "6 weeks",
+      "description": "Learn how to make basic webpages using HTML, CSS, and JavaScript.",
+      "keyTeachings": [
+        "Introduction",
+        "HTML Elements",
+        "CSS Styling",
+        "JavaScript Interactions"
+      ],
+      "bio": "Don Justice has lots of experience in the tech industry. He has worked for many companies as a top web developer."
+    },
+    {
+      "id": "2",
+      "title": "Python for Beginners",
+      "thumbnail": "../assets/logos/pythonLogo.png",
+      "banner": "../assets/banners/banner2.png",
+      "instructor": "Jane Looper",
+      "duration": "5 weeks",
+      "description": "Learn the basics of Python. Get familliarized with the syntax of the language and how to make polished code.",
+      "keyTeachings": [
+        "Introduction",
+        "Basic Syntax",
+        "Loops",
+        "If/else Statements",
+        "Lists",
+        "Functions",
+        "Libraries"
+      ],
+      "bio": "Jane Looper is a renowned teacher of many coding languages. She has decades of experience in many languages, including Python, Java, and the C languages."
+    }
+  ]
+}
